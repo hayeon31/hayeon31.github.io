@@ -479,7 +479,7 @@
 			
 
 			
-			<section class="colorlib-blog" data-section="blog">
+			{% comment %} <section class="colorlib-blog" data-section="blog">
 				<div class="colorlib-narrow-content">
 					<div class="row">
 						<div class="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
@@ -503,12 +503,12 @@
 					</div>
 					<div class="row">
 						<div class="col-md-12 animate-box">
-							{% comment %} <p><a href="{{ site.blog_load_more_url | default: '#'}}" onclick="return false;" class="btn btn-primary btn-lg btn-load-more">{{ site.blog_load_more }}</a></p> {% endcomment %}
+							<p><a href="{{ site.blog_load_more_url | default: '#'}}" onclick="return false;" class="btn btn-primary btn-lg btn-load-more">{{ site.blog_load_more }}</a></p>
 						</div>
 						{% include youtubeplayer.html id=site.youtube_vid %}
 					</div>
 				</div>
-			</section>
+			</section> {% endcomment %}
 
 			<section class="colorlib-contact" data-section="contact">
 				<div class="colorlib-narrow-content">
