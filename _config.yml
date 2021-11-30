@@ -232,7 +232,7 @@ exp_counters:
   speed: 10000
 - name: project (NUMBER)
   count: 6
-  speed: 8000
+  speed: 30000
 
 
 # Career
