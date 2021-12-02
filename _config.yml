@@ -118,7 +118,7 @@ tech_list: # 형식에 맞추어 항목 추가
 - name: 머신러닝
   color: color-3
   animation: fadeInRight
-  percent: 15
+  percent: 20
   mark: 25
   content: 공부하면 공부할수록 이 분야가 정말 방대하고 제가 아는것이 정말 일부분이라는 것을 많이 느낍니다. 통계 이론부터 다시 배우겠다는 마음으로 공부하고 있습니다.
 - name: 딥러닝
@@ -126,7 +126,7 @@ tech_list: # 형식에 맞추어 항목 추가
   animation: fadeInLeft
   percent: 15
   mark: 20
-  content: 공부하면 공부할수록 이 분야가 정말 방대하고 제가 아는것이 정말 일부분이라는 것을 많이 느낍니다. 통계 이론부터 다시 배우겠다는 마음으로 공부하고 있습니다.
+  content: 머신러닝에 이어서 딥러닝을 같이 학습 중입니다. 현재 수학적 지식과 탄탄한 베이스를 만드는데 초점을 두고 학습하고 있습니다.
 - name: Github
   color: color-4
   animation: fadeInRight
