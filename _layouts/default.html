@@ -154,13 +154,13 @@
 								</div>
 							</div>
 							<div class="row">
-								<div class="col-md-3 animate-box" data-animate-effect="fadeInLeft">
+								{% comment %} <div class="col-md-3 animate-box" data-animate-effect="fadeInLeft">
 									<div class="services color-1">
 										<span class="icon2"><i class="{{ site.about_services[0].icon | default: 'icon-data' }}"></i></span>
 										<h3>{{ site.about_services[0].name }}</h3>
 									</div>
 									
-								</div>
+								</div> {% endcomment %}
 								<div class="col-md-3 animate-box" data-animate-effect="fadeInRight">
 									<div class="services color-2">
 										<span class="icon2"><i class="{{ site.about_services[1].icon | default: 'icon-data' }}"></i></span>
@@ -168,18 +168,18 @@
 									</div>
 								</div>
 								<div class="col-md-3 animate-box" data-animate-effect="fadeInTop">
-									<div class="services color-3">
+									<div class="services color-1">
 										<span class="icon2"><i class="{{ site.about_services[2].icon | default: 'icon-data' }}"></i></span>
 										<h3>{{ site.about_services[2].name }}</h3>
 									</div>
 
 								</div>
-								<div class="col-md-3 animate-box" data-animate-effect="fadeInBottom">
+								{% comment %} <div class="col-md-3 animate-box" data-animate-effect="fadeInBottom">
 									<div class="services color-4">
 										<span class="icon2"><i class="{{ site.about_services[3].icon | default: 'icon-data' }}"></i></span>
 										<h3>{{ site.about_services[3].name }}</h3>
 									</div>
-								</div>
+								</div> {% endcomment %}
 							</div>
 							<div class="row">
 								<div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">

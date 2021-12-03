@@ -89,8 +89,8 @@ about_services: # 형식에 맞추어 항목 추가
   name: Server
 - icon: icon-monitor
   name: Web
-- icon: icon-phone3
-  name: App
+# - icon: icon-phone3
+#   name: App
 - icon: icon-code
   name: Python
 about_box_content: >-
@@ -231,8 +231,8 @@ exp_counters:
   count: 197
   speed: 10000
 - name: project (NUMBER)
-  count: 6
-  speed: 100000
+  count: 5.00
+  speed: 10000
 
 
 # Career
