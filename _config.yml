@@ -14,7 +14,7 @@ profile_image: images/about.jpg
 
 
 # SNS 아이디
-facebook_id: 
+github_id: 
 instagram_id: 
 
 
@@ -30,7 +30,7 @@ color_2: ec5453
 color_3: f9bf3f
 color_4: a84cb8
 color_5: 2fa499
-color_6: 4054b2
+color_6: 2fa499
 
 
 # slider type 0  (텍스트가 우측 정렬된 슬라이더)
