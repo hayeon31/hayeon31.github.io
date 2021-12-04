@@ -14,7 +14,7 @@ profile_image: images/about.jpg
 
 
 # SNS 아이디
-facebook_id: 
+github_id: 
 instagram_id: 
 
 
@@ -30,7 +30,7 @@ color_2: ec5453
 color_3: f9bf3f
 color_4: a84cb8
 color_5: 2fa499
-color_6: 4054b2
+color_6: 2fa499
 
 
 # slider type 0  (텍스트가 우측 정렬된 슬라이더)
@@ -89,8 +89,8 @@ about_services: # 형식에 맞추어 항목 추가
   name: Server
 - icon: icon-monitor
   name: Web
-- icon: icon-phone3
-  name: App
+# - icon: icon-phone3
+#   name: App
 - icon: icon-code
   name: Python
 about_box_content: >-
@@ -133,7 +133,7 @@ tech_list: # 형식에 맞추어 항목 추가
   percent: 25
   mark: 25
   content: 대부분의 프로젝트를 github를 통해 소스 코드를 관리하였으며, 협업 역시 github을 통해 진행하였습니다. 또한 github서버를 활용하여 블로그 및 포트폴리오 사이트를 관리합니다.
-tech_desc: AI 전문가가 되기 위해서 <strong>Python, 머신러닝, 딥러닝 </strong>에 집중할 생각입니다. 
+tech_desc: AI 전문가가 되기 위해서 <strong>Python, 머신러닝, 딥러닝 </strong>에 집중하고 있습니다. 
 
 
 # Project
@@ -150,7 +150,7 @@ project_my: # 형식에 맞추어 항목 추가
   animation: fadeInLeft
   name: 서울 부동산가격 예측 프로젝트 (2021.11)
   description:  
-  detail_url: #
+  detail_url: https://github.com/HayeonKimm/machine-Learning/blob/master/machine-pjt/My_Project/%EC%84%9C%EC%9A%B8_%EC%A3%BC%ED%83%9D%EA%B0%80%EA%B2%A9_%EC%98%88%EC%B8%A1%ED%95%98%EA%B8%B0.ipynb
   readmore_url: https://github.com/HayeonKimm/machine-Learning/blob/master/machine-pjt/My_Project/%EC%84%9C%EC%9A%B8_%EC%A3%BC%ED%83%9D%EA%B0%80%EA%B2%A9_%EC%98%88%EC%B8%A1%ED%95%98%EA%B8%B0.ipynb
 
 # - background_url: 
@@ -231,8 +231,8 @@ exp_counters:
   count: 197
   speed: 10000
 - name: project (NUMBER)
-  count: 6
-  speed: 100000
+  count: 5.00
+  speed: 10000
 
 
 # Career
