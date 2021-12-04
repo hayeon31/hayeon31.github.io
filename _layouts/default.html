@@ -538,10 +538,10 @@
 							{% endfor %}
 
 						</div>
-						<div class="col-md-7 col-md-push-1">
+						{% comment %} <div class="col-md-7 col-md-push-1">
 							<div class="row">
-								<div class="col-md-10 col-md-offset-1 col-md-pull-1 animate-box" data-animate-effect="fadeInRight">
-									<form id="gform" method="POST" action="">
+								<div class="col-md-10 col-md-offset-1 col-md-pull-1 animate-box" data-animate-effect="fadeInRight"> {% endcomment %}
+									{% comment %} <form id="gform" method="POST" action="">
 										<div class="form-group">
 											<input type="text" class="form-control" placeholder="성함" name="name">
 										</div>
@@ -564,11 +564,11 @@
 										<div class="thankyou_message" style="display:none;" id="thankyou_message">
 											<h3>{{ site.contact_message }}</h3>
 										</div>
-									</form>
-								</div>
+									</form> {% endcomment %}
+								{% comment %} </div>
 								
 							</div>
-						</div>
+						</div> {% endcomment %}
 					</div>
 				</div>
 				
