@@ -35,7 +35,7 @@ color_6: 2fa499
 # slider type 0  (텍스트가 우측 정렬된 슬라이더)
 slider_0: # 형식에 맞추어 항목 추가
 - background_url: images/cover_bg_4.jpg
-#   title: I am<br>AI Developer
+#   title: 
   subtitle: >- 
     hi<br>
     im<br>
@@ -132,7 +132,7 @@ tech_list: # 형식에 맞추어 항목 추가
   percent: 25
   mark: 25
   content: 대부분의 프로젝트를 github를 통해 소스 코드를 관리하였으며, 협업 역시 github을 통해 진행하였습니다. 또한 github서버를 활용하여 블로그 및 포트폴리오 사이트를 관리합니다.
-#tech_desc: AI 전문가가 되기 위해서 <strong>Python, 머신러닝, 딥러닝 </strong>에 집중하고 있습니다. 
+#tech_desc: 
 # Project
 project_meta: My Work
 project_header: PROJECT
@@ -275,7 +275,7 @@ edu_list:
 # blog_load_more: 더 발전하기 위해 항상 노력합니다    # 더보기 내용
 # blog_load_more_url: #
 # blog_list:
-# - title: 아기치타의 AI 대학원 블로그
+# - title: 
 #   subtitle: 개발 블로그 운영
 #   date: 2021.01
 #   content: 여러 분야의 프로그래머들을 보면서 부러워도 하고 좌절도 하였지만 포기하지않고 어느 한분야라도 '장인'이 되겠다는 마음으로 꾸준히 개발 블로그를 운영해오고 있습니다.
