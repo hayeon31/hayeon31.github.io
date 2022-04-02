@@ -248,8 +248,6 @@ exp_counters:
 #   color: color-2
 #   icon: icon-pen2
 #   animation: fadeInRight
-
-
 # Education
 edu_meta: Education
 edu_header: Education
